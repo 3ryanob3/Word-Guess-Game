@@ -10,6 +10,8 @@ var computerGuess = [];
 
 
 
+
+
 //Initial computer letter
 window.onload = function() { 
 	var compGuess = computerChoices[Math.floor(Math.random() * computerChoices.length)];
