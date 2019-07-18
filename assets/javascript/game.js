@@ -24,7 +24,7 @@ document.onkeyup = function(event) {
 	lettersGuessed.push(playerGuess);
 	console.log(computerGuess[0]);
 
-if ((playerGuess === computerGuess[0]) && (guessesLeft > 0)) {
+if ((playerGuess === computerGuess[0]) && (guessesLeft > 0)) { 
 	wins++;
 	guessesLeft = 9;
 	lettersGuessed.length = 0;
