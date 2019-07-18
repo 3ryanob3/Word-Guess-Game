@@ -43,7 +43,7 @@ else {
 	guessesLeft = 9;
 	lettersGuessed.length = 0;
 	computerGuess.length = 0;
-	var compGuess = computerChoices[Math.floor(Math.random() * computerChoices.length)];
+	var compGuess = computerChoices[Math.floor(Math.random() * computerChoices.length)]; 
 	computerGuess.push(compGuess);
 	console.log(computerGuess[0]);
 }
