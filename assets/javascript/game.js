@@ -11,7 +11,7 @@ var computerGuess = [];
 
 
 //Initial computer letter
-window.onload = function() {
+window.onload = function() { 
 	var compGuess = computerChoices[Math.floor(Math.random() * computerChoices.length)];
 	computerGuess.push(compGuess);
 	console.log(computerGuess[0]);
