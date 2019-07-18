@@ -57,3 +57,4 @@ var html = "<p>Guess what letter I'm thinking of!</p>" +
 document.querySelector("#game").innerHTML = html;
 
 }
+
