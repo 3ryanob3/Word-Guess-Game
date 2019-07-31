@@ -1,0 +1,20 @@
+body{
+    
+        background: url("https://static.vecteezy.com/system/resources/previews/000/092/726/original/question-mark-background-vector.jpg") no-repeat right top;
+      }  
+
+
+title {
+    font-size: 100px;
+    color: blue;
+  }
+
+
+p  {
+    font-size: 50px;
+    color: blue; 
+  }
+
+h1{ font-size: 100px;
+    color: blue;
+}
